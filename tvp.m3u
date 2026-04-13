@@ -1,5 +1,4 @@
-#EXTM3U  x-tvg-url=https://raw.githubusercontent.com/kemalsyabaniadama/test-epg/main/guide.xml refresh="1440" max-conn="1" refresh="24"t.com/kemalsyabaniadama/test-epg/main/guide.xml refresh="1440" max-conn="1" refresh="24"
-
+#EXTM3U x-tvg-url=https://raw.githubusercontent.com/kemalsyabaniadama/test-epg/main/guide.xml refresh="1440" max-conn="1" refresh="24",https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml
 ############################
 ## ⚠️ INFO
 ############################
@@ -106,7 +105,7 @@ https://zozotv.xyz:443/live/ZZA21216/zxe36880/400.ts
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-#EXTINF:-1 tvg-id="Tv Digital" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9WuiZ9velWktA4c5isKXd9KFR2gqOcFT8XnaIQMbJZIVJnNQDR-iMjq4&s=10" group-title="🔴 LIVE" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",BUNDESLIGA SPORTSTARS 4
+#EXTINF:-1 tvg-id="Sportstars4.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9WuiZ9velWktA4c5isKXd9KFR2gqOcFT8XnaIQMbJZIVJnNQDR-iMjq4&s=10" group-title="🔴 LIVE" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",BUNDESLIGA SPORTSTARS 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -321,7 +320,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-#EXTINF:-1 tvg-id="SindoNews.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9F2AiSa0UifkaEwjfbMkcFgqpFuRmrZFJZw&s" group-title="🇮🇩 INDONESIA" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",SINDONEWS v+
+#EXTINF:-1 tvg-id="SindoNewsTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9F2AiSa0UifkaEwjfbMkcFgqpFuRmrZFJZw&s" group-title="🇮🇩 INDONESIA" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",SINDONEWS v+
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTINF:-1 tvg-id="NusantaraTV.id@SD" tvg-logo="https://thumbor.prod.vidiocdn.com/JOevGN45gmuWOy0d36IGBEqDb00=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="🇮🇩 INDONESIA" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",NUSANTARA TV DNS
@@ -349,7 +348,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 tvg-id="Tv Digital" tvg-logo="https://pic.bstarstatic.com/ugc/95ceaf85629ec13c7543065224102637.jpg" group-title="🇮🇩 INDONESIA" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",BN CHANNEL
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
-#EXTINF:-1 tvg-id="IDX HD - [Saluran 436].id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTYJAh-gCXdiT466vu9IBAya2caQ2viI--Gw&s" group-title="🇮🇩 INDONESIA" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",SALURAN IDX
+#EXTINF:-1 tvg-id="IDX.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTYJAh-gCXdiT466vu9IBAya2caQ2viI--Gw&s" group-title="🇮🇩 INDONESIA" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",SALURAN IDX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
@@ -1011,21 +1010,21 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d56316d3d77148d18bd1f23138247207:340620d36e8e8209a7608154ff0c96d4
 
-#EXTINF:-1 tvg-id="Tv Digital" tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="🏆 SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",SPORTSTARS 2
+#EXTINF:-1 tvg-id="Sportstars2.id" tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="🏆 SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",SPORTSTARS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-id="sportstars 3 HD - [Channel 423].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="🏆 SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",SPORTSTARS 3
+#EXTINF:-1 tvg-id="Sportstars3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="🏆 SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",SPORTSTARS 3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=https://pepek.semar.my.id/sportstars3.html
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#EXTINF:-1 tvg-id="Sportstars 4 HD - [Saluran 424].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="🏆 SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",SPORTSTARS 4
+#EXTINF:-1 tvg-id="Sportstars4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="🏆 SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",SPORTSTARS 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1141,7 +1140,7 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 #EXTINF:-1 tvg-id="Tv Digital" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHKJr0mpkeWnUMuWUS_DHoURLHv0Lb4LmiA&s" group-title="🏆 SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",BeinSport Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beIN SPORTS.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4wTXZ0qi8xjWXrTWJKWkmfRFK7NlhsRHmgw&s" group-title="🏆 SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",beIN Sports 1 ID
+#EXTINF:-1 tvg-id="beInSports1.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4wTXZ0qi8xjWXrTWJKWkmfRFK7NlhsRHmgw&s" group-title="🏆 SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",beIN Sports 1 ID
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1149,7 +1148,7 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-#EXTINF:-1 tvg-id="beIN SPORTS 2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ym7eeO2L0zLDLXcFt_amMe7VqmE8VrRBYg&s" group-title="🏆 SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",beIN Sports 2 ID
+#EXTINF:-1 tvg-id="beInSports2.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ym7eeO2L0zLDLXcFt_amMe7VqmE8VrRBYg&s" group-title="🏆 SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",beIN Sports 2 ID
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1157,7 +1156,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
-#EXTINF:-1 tvg-id="beIN SPORTS 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/XW3QKDaZSyn3iYKafLb4fhbcTwg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="🏆 SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",beIN Sports 3 ID
+#EXTINF:-1 tvg-id="beInSports3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/XW3QKDaZSyn3iYKafLb4fhbcTwg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="🏆 SPORT" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",beIN Sports 3 ID
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
