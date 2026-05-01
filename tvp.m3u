@@ -1591,14 +1591,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cg_hbohits.mpd
 
-#EXTINF:-1 tvg-id="Tv Digital" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnv1H8AHrcvY_GL-ypdUM57RuiZCWVTKHlw&s" group-title="📺 HBO" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",HBO HITS TRV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#EXTINF:-1 tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="📺 HBO",CINEMAX ID
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 #EXTINF:-1 tvg-id="Tv Digital" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnv1H8AHrcvY_GL-ypdUM57RuiZCWVTKHlw&s" group-title="📺 HBO" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",HBO HITS INDI
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -1637,6 +1631,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/in
 #KODIPROP:inputstream.adaptive.license_key=07af9ce05d8f4960a1b9113e7fdb8e7e:12b66b374d9c804f7311cb6a8d421c8c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/New_Warner_TV_Logo.jpg" group-title="📺 HBO",WARNER TV ID
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 ############################
 ## 👦🏻 KIDS
