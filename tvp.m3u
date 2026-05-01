@@ -1583,7 +1583,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 
 #EXTINF:-1 tvg-id="Tv Digital" tvg-logo="https://deadline.com/wp-content/uploads/2025/09/hbo-logo.jpg?w=681&h=383&crop=1" group-title="📺 HBO" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/306484
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
 #EXTINF:-1 tvg-id="Tv Digital" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnv1H8AHrcvY_GL-ypdUM57RuiZCWVTKHlw&s" group-title="📺 HBO" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",HBO HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
