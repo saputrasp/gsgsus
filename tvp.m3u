@@ -8,23 +8,37 @@ https://dl.dropboxusercontent.com/scl/fi/lwih792a68rf3kd9mgnnu/LAYANAN.mp4?rlkey
 ############################
 ## ⚽ FIFA SERIES 2026
 ############################
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="Piala Dunia 2026",CazeTV
+#KODIPROP:inputstream=inputstream.adaptif
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 
-#EXTINF:-1 tvg-id="Tv Digital" tvg-logo="https://periskop-s3-1.s3.ap-southeast-3.amazonaws.com/media-berita/screenshot-2026-02-24-at-13-47-30-699d4996b58ef.webp" group-title="⚽︎ FIFA SERIES 2026" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",15:30 Saint Kitts and Nevis vs Solomon Islands
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=867fd28969f36428aea67503323a9607&wsABSTime=1774882219
+#KODIPROP:inputstream=inputstream.adaptif
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTINF:-1 tvg-id="FoxSports.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Piala Dunia 2026",FOX Sports (1080p)
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 
-#EXTINF:-1 tvg-id="Tv Digital" tvg-logo="https://periskop-s3-1.s3.ap-southeast-3.amazonaws.com/media-berita/screenshot-2026-02-24-at-13-47-30-699d4996b58ef.webp" group-title="⚽︎ FIFA SERIES 2026" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",20:00 Indonesia vs Bulgaria
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=6d90ffd7d063e4bf5ceb7d933814b19c&wsABSTime=1774882161
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=aecd46ad5bc0f050cf6c1e66b1382f8d&wsABSTime=1774902288
+#KODIPROP:inputstream=inputstream.adaptif
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTINF:-1 tvg-id="" tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="Piala Dunia 2026",Telemundo (AS)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id=TV Digital" tvg-logo="https://periskop-s3-1.s3.ap-southeast-3.amazonaws.com/media-berita/screenshot-2026-02-24-at-13-47-30-699d4996b58ef.webp" group-title="⚽︎ FIFA SERIES 2026" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",INDOSIAR
-http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162138
+#KODIPROP:inputstream=inputstream.adaptif
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="Piala Dunia 2026", ELTA SPORTS 1
+https://iptv.852851.xyz/l/V46f6o08BGwo1CpYNqSZAZL55DpM6bija9oMQN2452EgR1ivEgrTsNiWt1V2OwFf/index.m3u8
 
-#EXTINF:-1 tvg-id="Tv Digital" tvg-logo="https://periskop-s3-1.s3.ap-southeast-3.amazonaws.com/media-berita/screenshot-2026-02-24-at-13-47-30-699d4996b58ef.webp" group-title="⚽︎ FIFA SERIES 2026" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6yetMLEAH0ZAK9H-Kb8gWYHwji9W5nRRHi5l2TywrqyTUJ-5EEMEbWtQE&s=10",RCTI
-http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/157591
+#KODIPROP:inputstream=inputstream.adaptif
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20250628/original/pngtree-golden-fifa-2026-trophy-isolated-on-clean-white-background-png-image_21215061.png" group-title="Piala Dunia 2026",CCTV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 seperti Mac OS X) AppleWebKit/602.1.50 (KHTML, seperti Gecko) Versi/10.0 Seluler/19E241 Safari/602.1
+http://107.150.60.122/live/cctv5hd.m3u8
 
 ############################
 ## 🔴 LIVE SPORTS
